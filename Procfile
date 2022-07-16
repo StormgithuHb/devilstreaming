@@ -1,1 +1,1 @@
-
+worker: node devil.js
